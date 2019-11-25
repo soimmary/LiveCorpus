@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-11-23T14:53:49+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///videoplayback.mp4" MIME_TYPE="video/mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c993264a-07a0-4085-8d2b-82c875397a04</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="634210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="635590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="635620"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="643300"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="643600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="651490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="652320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="654320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="655210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="658820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="658840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="659310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="659320"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="665480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="665909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="685637"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="685999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="696032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="696197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="704999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="705208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="716208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="716615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="724428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="724812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="744406"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="745197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="749636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="750021"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="751439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="751450"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="751779"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="751813"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="763648"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="763999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="770527"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="770538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="770933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="770956"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="778834"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="778944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="780208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="780208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="781351"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="781615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="811219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="811625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="816614"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="816999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="838010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="838505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="858055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="858604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="885812"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="886010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="890186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="890208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="890428"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="891121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="892395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="893219"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="897592"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="897768"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="902164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="902604"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="935318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="936176"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="945066"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="945186"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="949867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="950121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="959922"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="soimmary" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@vvp1934m" TIER_ID="@vvp1934m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Итак / поговорим о языке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>значит / вы утверждаете / я вас цитирую / что самые сложные после нашей вселенной / это человеческий мозг и язык</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>#цыкает# про мозг мы уже как-то поговорили / хотя вернемся к нему еще раз… не раз / или он нас вернет к себе / уж тут не знаю как сказать</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>в чем такая уж сложность языка?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>конечно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ну</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>аа и никакого толкования</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>конечно конечно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>хорошо / скажите мне пожалуйста / есть ли ген языка на ваш взгляд?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>нету</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="soimmary" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@tvc1947f" TIER_ID="@tvc1947f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ээм вот если вы позволите / я на шаг раньше отступлю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>все живые организмы / все любой степени сложности / имеют какие-то системы коммуникации</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>кто коммуницирует с помощью химии скажем инфузория туфелька / кто с помощью электричества какой-нибудь электрический скат / кто-то активно / кто запаховым образом / кто акустически / нет / организмов / которые не вступают в коммуникацию к себе подобными или со своими врагами или даже отчасти жертвами</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>#вздох# / и поэтому встает вопрос / а что такого почему такой пафос вокруг именно человеческого языка / и на эту тему есть две такие линии основных</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>одни эээ / я бы даже сказала начиная с Дарвина хотя он именно языком-то не занимался но общее… э общий вектор такой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>говорят / да мы примерно такие же как все остальные существа на земле только намного умнее и намного / быстрее и намного более эффективны / то есть вопрос в степени</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>а есть другие / и это ваш любимый Чомски или в русской традиции Хомский / которые говорят нет / это вообще другая история</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>э мм дело не в том что мы умнее и быстрее и эффективнее / а дело в том что / нам аа / неведомыми способами #вздох# / дан инструмент и это человеческий язык / который вообще иначе устроен и обслуживает совсем другие вещи / не только коммуникацию / вот это кстати очень важная вещь</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>аа Хомский / вообще ну он эк... экстремальный такой человек поэтому он говорит очень так жестко</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>он говорит следующим образом / язык ээ был создан или образовался это я не настаиваю на формулировке / ээ вовсе не как средство коммуникации / а для мышления</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>как средство коммуникации язык не очень хорош / вот тут он между прочим / попал снайперски в цель</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>потому что / лучше всего для коммуникации азбука морзе / вот как здесь #стучит# отстучал/ #стучит# так здесь же и получил / однозначный сигнал</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>нет толкования</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>наш язык тем-то ии э уникален невероятен / помимо того что я еще дальше скажу / что все зависит от того / кто говорит / кому говорит / когда говорит / что они оба прочли / как они относятся к друг другу / среда это или пятница / говорим мы в шутку или серьезно / иронизируем ли мы / каков наш общий багаж / и есть ли он у нас / тогда мы можем вообще ни до чего не договориться / хотя говорим на одном и том же национальном языке и так далее это отнюдь не полный список</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>и Хомский говорит / м он для мышления / для организации мира</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>я бы сказала так что / в.. вообще язык это средство борьбы с хаосом / потому что на наши сенсорные системы / на уши… в уши / в глаза / на кожу / на нос / на все наши входы в мозг / каждую миллисекунду / или если хотите ещё мельче можем разделить / поступают сигналы из мира</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>их много / разных / если бы у нас не было языка / то бишь наименований названий / для разных явлений и объектов / то тогда / для каждого вида огурца понадобилось бы свое слово / и у нас бы память не выдержала даже такого объема / о котором мы только что говорили</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>есть тысяча вариантов чашек / однако есть общее слово чашка / есть варианты для ста… мильён вал… вариантов для столов / эмм растений и так далее / значит вот как-то так удачно вышло уж я не знаю кто нам такое подбросил / эволюция / условно скажем / что у нас есть мм имена для целых групп явлений более-менее близких по отношению друг другу</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>все люди разные / но у нас есть слово человек / или есть слово люди</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>и таким образом мы объединяем это</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ээ и и на мой нет / и на взгляд любого другого человека который понимает нет и быть не может по / очень простой причине / это такая сложная функция и / если вы мне дадите возможность я расскажу в чем ее сложность / что только очень наивный и мало э просвещенный в этой области человек может подумать что / э вообще теоретически может быть один ген который ведает такой сложной вещью как язык / потому что в функционировании языка принимают участие память / разная память / оперативная / долговременная / ассоциативная такая-сякая / и это вне языка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>то есть не только внутри языка но и вне языка / интеллекты разный / эмоции / внимание / и еще там бог знает что / это целый список</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>представить себе что такую сложную систему может обслужить один ген / конечно нет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>но / я понимаю что вы можете меня ээ щипнуть на тему знаменитого гена фокс пи два / который был объявлен как ген языка</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_f34e71aa-6a12-4bf2-8ab2-21370dafd09f">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_859663c1-8320-4256-88b1-a6d1718dfcd6">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_1fa376ee-9ea2-4a97-977f-0e7b8e839c55">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4efcdbdc-f6cc-4d18-b81a-63ef38db7512">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_708971b4-7030-4569-89a7-1d4f1450f564">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_12747306-f15f-4d15-8460-1c9074fc0891">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7813f662-97ef-457f-bdaa-8fd23a2dfa05">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_58f6519f-a6c1-432f-8008-fe7bcbc716cd">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b33df8d9-3787-44e0-bb58-d6f370288435">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5665f8ff-0242-4f55-aeba-64e84423bc27">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b74b1766-05a4-486c-84d7-8c71aadffad3">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_4130feb2-dd4e-410e-afcb-8f79c936e684">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_00f61453-662e-4c02-952d-8b1e5efcac9b">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_e625f936-a3be-4bde-80fc-b6056e59f40a">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5c80b6b8-0a3f-49cf-b3d8-de69ef345210">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fff6cf98-0507-4486-987f-af31275c8eeb">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5631e89f-29c8-4e12-b26c-b33747287673">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
