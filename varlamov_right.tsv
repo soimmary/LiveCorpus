@@ -219,7 +219,7 @@
 218	можешь	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@mdm1990f-words#@mdm1990f#00:11:05.300#00:11:05.656
 219	дать	дать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	@mdm1990f-words#@mdm1990f#00:11:05.656#00:11:06.012
 220	какие-нибудь	какой-нибудь	DET	_	Case=Acc|Number=Plur	_	_	_	@mdm1990f-words#@mdm1990f#00:11:06.012#00:11:06.368
-221	ээ	ээ	X	_	_	_	_	_	@mdm1990f-words#@mdm1990f#00:11:06.368#00:11:06.724
+221	ээ	ээ	INTJ	_	_	_	_	_	@mdm1990f-words#@mdm1990f#00:11:06.368#00:11:06.724
 222	советы	совет	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	@mdm1990f-words#@mdm1990f#00:11:06.724#00:11:07.080
 223	тем	тот	 PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	@mdm1990f-words#@mdm1990f#00:11:07.080#00:11:07.436
 224	кто	кто	PRON	_	Case=Nom	_	_	_	@mdm1990f-words#@mdm1990f#00:11:07.436#00:11:07.792
