@@ -231,7 +231,7 @@
 230	более	более	ADV	_	Degree=Cmp	_	_	_	@tvc1947f-words#@tvc1947f#713.26#713.626
 231	эффективны	эффективный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	@tvc1947f-words#@tvc1947f#713.626#713.992
 232	/	/	PUNCT	_	_	_	_	_	@tvc1947f-words#@tvc1947f#713.992#714.358
-233	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#714.358#714.724
+233	то	то	PRON	_	Case=Nom|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#714.358#714.724
 234	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@tvc1947f-words#@tvc1947f#714.358#714.724
 235	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#715.09#715.456
 236	в	в	ADP	_	_	_	_	_	@tvc1947f-words#@tvc1947f#715.456#715.822
@@ -244,12 +244,12 @@
 243	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#718.07#718.35
 244	ваш	ваш	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#718.35#718.707
 245	любимый	любимый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#718.707#719.064
-246	Чомски	Чомски	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#719.064#719.421
+246	Чомски	Чомски	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#719.064#719.421
 247	или	или	CCONJ	_	_	_	_	_	@tvc1947f-words#@tvc1947f#719.421#719.7
 248	в	в	ADP	_	_	_	_	_	@tvc1947f-words#@tvc1947f#719.7#719.9
 249	русской	русский	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#719.9#720.426
 250	традиции	традиция	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#720.426#721.01
-251	Хомский	Хомский	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#721.01#721.4
+251	Хомский	Хомский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#721.01#721.4
 252	/	/	PUNCT	_	_	_	_	_	@tvc1947f-words#@tvc1947f#721.4#721.516
 253	которые	который	PRON	_	Case=Nom|Number=Plur	_	_	_	@tvc1947f-words#@tvc1947f#721.516#721.88
 254	говорят	говорить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	@tvc1947f-words#@tvc1947f#721.88#722.244
@@ -314,7 +314,7 @@
 313	важная	важный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#743.636#743.998
 314	вещь	вещь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#743.998#744.406
 315	аа	аа	INTJ	_	_	_	_	_	@tvc1947f-words#@tvc1947f#745.197#745.587
-316	Хомский	Хомский	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#745.587#745.977
+316	Хомский	Хомский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	@tvc1947f-words#@tvc1947f#745.587#745.977
 317	/	/	PUNCT	_	_	_	_	_	@tvc1947f-words#@tvc1947f#745.977#746.367
 318	вообще	вообще	ADV	_	Degree=Pos	_	_	_	@tvc1947f-words#@tvc1947f#746.367#746.757
 319	ну	ну	INTJ	_	_	_	_	_	@tvc1947f-words#@tvc1947f#746.757#747.147
